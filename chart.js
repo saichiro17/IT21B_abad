@@ -22,6 +22,7 @@ const talentData = {
 };
 
 const chartConfig = {
+   
     type: 'pie',
     data: talentData,
     options: {
