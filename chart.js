@@ -18,8 +18,10 @@ const talentData = {
             'rgba(138, 43, 226, 1)',
         ],
         hoverOffset: 4
+    
     }]
 };
+
 
 const chartConfig = {
    
